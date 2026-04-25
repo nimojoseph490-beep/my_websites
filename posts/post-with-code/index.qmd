@@ -1,0 +1,13 @@
+---
+title: "Analysis of DHS data"
+author: "Nimo Joseph"
+date: "2026-04-24"
+categories: [code, analysis]
+image: "image.jpg"
+---
+
+This was a project using the DHS data. You can find the project [here](https://demolandscapes.info/){target="_blank"}
+
+```{r}
+1 + 1
+```

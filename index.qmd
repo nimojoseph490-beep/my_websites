@@ -1,0 +1,26 @@
+---
+title: "Nimo Joseph"
+image: IMG-20260424-WA0012.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+    - icon: github
+      text: Github
+      href: https://github.com
+---
+
+My name is Joseph Nimo. I’m an Accounting student, a teacher, and a creative driven by impact. For the past few years, I’ve been working in education, helping young people understand concepts in a practical and meaningful way.
+
+Beyond teaching, I’m deeply involved in research and communication. I analyze business and economic issues and break them down into simple insights people can actually use in their daily lives.
+
+I’m also an aspiring filmmaker and writer, focused on telling authentic African stories and building something original within the Ghanaian film space.
+
+At the heart of everything I do is a bigger vision—The economy of value—a project aimed at helping individuals and communities better understand value, money, and how to grow both.
+
+For me, it’s all about impact, growth, and creating something that truly matters.
